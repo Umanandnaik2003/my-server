@@ -1,15 +1,10 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/**/*.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/to-link",
-      "destination": "https://maps.app.goo.gl/d1fskNGdGPdoixMa7?g_st=ac"
-    }
-  ]
+    "version": 2,
+    "redirects": [
+      {
+        "source": "/my-redirect", 
+        "destination": "https://maps.app.goo.gl/d1fskNGdGPdoixMa7?g_st=ac", 
+        "permanent": true 
+      }
+    ]
 }

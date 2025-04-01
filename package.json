@@ -1,5 +1,5 @@
 {
-  "name": "t",
+  "name": "my-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,12 @@
     "type": "git",
     "url": "git+https://github.com/Umanandnaik2003/my-server.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Umanandnaik2003/my-server/issues"
   },
   "homepage": "https://github.com/Umanandnaik2003/my-server#readme",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "description": ""
 }
