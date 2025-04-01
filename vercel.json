@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/to-link",
+      "destination": "https://maps.app.goo.gl/d1fskNGdGPdoixMa7?g_st=ac",
+      "permenent": true
+    }
+  ]
+}
